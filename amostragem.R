@@ -16,4 +16,3 @@ for(i in seq(1:qtd_coletas)){
 }
 
 
-
